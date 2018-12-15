@@ -1,20 +1,10 @@
 ### To run the project
 
 
-## First
---------
-  Setup the Back-end server
-  - download and extract the creatella-react-test.zip file from the Back_end Server to a file
-  - cd that file and
-  - run
-    yarn install or npm install
-  - run
-    yarn star  or npm start
 
-
-## Second, Clone the repositry and install node_modules
+## First, Clone the repositry and install node_modules
 --------
-  - Open Terminal.  
+  - Open a Terminal.  
   - Change the current working directory to the location where you want the cloned directory to be made.
   - run
     git clone  https://github.com/rafiGaucho/creatella-Challenge-product-listing-.git
@@ -22,14 +12,25 @@
   - run
    yarn install or npm install
 
-## Third,
+## Second,
 --------
   - setup the serverAddress in App/Api.js
   - Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable
 
+## Third
+  --------
+    Setup the Back-end server
+    - download and extract the creatella-react-test.zip file from the Back_end Server to a file
+    - open second terminal in that directory
+    - run
+      yarn install or npm install
+    - run
+      yarn star  or npm start
+
+
 ###  Finally,
 --------
-  - run
+  - run in First termianl
     react-native run-android
 
 
