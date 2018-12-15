@@ -23,15 +23,15 @@
     - download and extract the creatella-react-test.zip file from the Back_end Server to a file
     - open second terminal in that directory
     - run
-      yarn install or npm install
+     -  yarn install or npm install
     - run
-      yarn star  or npm start
+      - yarn star  or npm start
 
 
 ###  Finally,
 --------
   - run in First termianl
-    react-native run-android
+     - react-native run-android
 
 
 ------
