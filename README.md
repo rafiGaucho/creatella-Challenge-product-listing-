@@ -7,10 +7,10 @@
   - Open a Terminal.  
   - Change the current working directory to the location where you want the cloned directory to be made.
   - run
-    git clone  https://github.com/rafiGaucho/creatella-Challenge-product-listing-.git
-    cd creatella-Challenge-product-listing-
+    - git clone  https://github.com/rafiGaucho/creatella-Challenge-product-listing-.git
+    - cd creatella-Challenge-product-listing-
   - run
-   yarn install or npm install
+    - yarn install or npm install
 
 ## Second,
 --------
