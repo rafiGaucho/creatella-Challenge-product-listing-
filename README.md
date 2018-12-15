@@ -4,7 +4,7 @@
 ## First
 --------
   Setup the Back-end server
-  - download and extract the creatella-react-test.zip file from the repositry to a file
+  - download and extract the creatella-react-test.zip file from the Back_end Server to a file
   - cd that file and
   - run
     yarn install or npm install
@@ -35,12 +35,12 @@
 
 ------
 
-### All the features of the as said in the challenge is done using react-native.
+### All the features  as said in the challenge are done using react-native.
 ### Libraries used are:
   - redux,
   - react-redux,
-  - redux-thunk  *for state management/*
-  - react-native-indicators  *for loading animation/*
+  - redux-thunk  
+  - react-native-indicators
 
 ----
 
