@@ -12,19 +12,19 @@
   - run
     - yarn install or npm install
 
-## Second, 
+## Second,
 --------
   - setup the serverAddress in App/Api.js
   - Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable
 
 ## Third ,  Setup the Back-end server
-  --------
-    - download and extract the creatella-react-test.zip file from the Back_end Server to a file
-    - open second terminal in that directory
-    - run
-       - yarn install or npm install
-    - run
-       - yarn star  or npm start
+  -------
+  - download and extract the creatella-react-test.zip file from the Back_end Server to a file
+  - open second terminal in that directory
+  - run
+     - yarn install or npm install
+  - run
+     - yarn star  or npm start
 
 
 ###  Finally,install app on device or emulator
