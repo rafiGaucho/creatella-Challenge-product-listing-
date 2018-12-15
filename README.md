@@ -33,13 +33,15 @@
     react-native run-android
 
 
-------------------------------------------------------------------------
+------
 
 ### All the features of the as said in the challenge is done using react-native.
-# Libraries used are:
-  - redux,react-redux,redux-thunk =>for state management
-  - react-native-indicators => for loading animation
+### Libraries used are:
+  - redux,
+  - react-redux,
+  - redux-thunk  *for state management/*
+  - react-native-indicators  *for loading animation/*
 
-------------------------------------------------------------------------
+----
 
-##### The working of codes is described as comments in the code itself.
+## The working of codes is described as comments in the code itself.
